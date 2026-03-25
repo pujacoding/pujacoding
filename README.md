@@ -1,4 +1,25 @@
-## Hi there 👋
+## # Hi 👋 I'm Puja Pramanik
+
+🚀 Aspiring Web Developer
+🏥 Working on Healthcare Projects (IPD Module)
+💻 Learning: Node.js | MySQL | JavaScript
+
+## 🔧 Skills
+
+* HTML, CSS, JavaScript
+* Node.js
+* MySQL
+* API Integration
+
+## 📌 Projects
+
+* 🏥 IPD Management System
+* 👨‍💼 Employee Management System (Coming Soon)
+
+## 📫 Contact
+
+📧 [pujapramanik12451@gmail.com](mailto:pujapramanik12451@gmail.com)
+
 
 <!--
 **pujacoding/pujacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
