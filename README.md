@@ -14,6 +14,7 @@
 ## 📌 Projects
 
 * 🏥 IPD Management System
+* Bio Bank LMS System
 * 👨‍💼 Employee Management System (Coming Soon)
 
 ## 📫 Contact
